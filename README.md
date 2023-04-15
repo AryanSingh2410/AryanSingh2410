@@ -15,20 +15,20 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <img  width="1000px" src="https://github.com/AryanSingh2410/Tech/blob/main/animated-gifs.gif" alt="Animated gif">
 </p>
-<p align="center">
+<!-- <p align="center">
 <a href="https://utkarsh299-tech.github.io/myportfolio/"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
-</p>
+</p> -->
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- 🔭 I’m currently working on **Python Django** based **Student Management System** project.
+<!-- - 🔭 I’m currently working on **Python Django** based **Student Management System** project.
 - 🌱 I’m currently learning **Flask**.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about: Git and GitHub.
 - 📫 How to reach me: singhutkarsh2799@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My favorite T.V Show is Breaking Bad. Although, I was obsessed with Lost. And my favorite TV show still running is Peaky Blinders.
-
+ -->
 
 <p align="center">
   <img width="1000px" src="[https://github.com/Utkarsh299-tech/Utkarsh299-tech/blob/main/animated_cat.gif](https://github.com/AryanSingh2410/Tech/blob/main/animated_cat.gif)" alt="Animated cat gif">
