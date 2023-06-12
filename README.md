@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://utkarsh299-tech.github.io/myportfolio/"><img target="_blank" src="https://img.shields.io/badge/-I%27m_craving_for_open_source-green?style=for-the-badge&logo=github&logoColor=black"/></a> 
 </p> -->
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
 
 <!-- - 🔭 I’m currently working on **Python Django** based **Student Management System** project.
 - 🌱 I’m currently learning **Flask**.
