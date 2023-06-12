@@ -35,9 +35,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 
-<img width="105%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical&line_height=15" />
+<!-- <img width="105%" src="https://github-readme-stats.vercel.app/api?username=Utkarsh299-tech&show_icons=true&theme=radical&line_height=15" />
 <img width="105%" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" />
-<img width="105%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" />
+<img width="105%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Utkarsh299-tech&show_icons=true&locale=en&layout=compact&theme=gruvbox&line_height=0" /> -->
 
 ## Tech Stack :computer:
 
@@ -47,22 +47,22 @@ You can click the Preview link to take a look at your changes.
  <tr>
 <td align="center" width="20%">
 <span><b><center>HTML</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/html5.svg"> 
+<!-- <img height=60px src="https://cdn.worldvectorlogo.com/logos/html5.svg">  -->
 </td>
 
 <td align="center" width="20%">
 <span><b><center>CSS</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/css-5.svg"> 
+<!-- <img height=60px src="https://cdn.worldvectorlogo.com/logos/css-5.svg">  -->
 </td>
 
 <td align="center" width="20%">
 <span><b><center>JavaScript</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
+<!-- <img height=60px src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">  -->
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Java</center></b></span> 
-<img height=60px src="https://cdn.worldvectorlogo.com/logos/java.svg"> 
+<!-- <img height=60px src="https://cdn.worldvectorlogo.com/logos/java.svg">  -->
 </td>
 </tr>
 
@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
 </table>
 <hr>
 
-<a href="https://github.com/kanupriya-11/github-readme-activity-graph"><img alt="Utkarsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Utkarsh299-tech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!-- <a href="https://github.com/kanupriya-11/github-readme-activity-graph"><img alt="Utkarsh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Utkarsh299-tech&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> -->
 <p align="center">
   
   <i>Let's connect and chat! Open to anything under the sun.</i>
