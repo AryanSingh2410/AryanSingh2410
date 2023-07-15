@@ -1,7 +1,7 @@
 Here is what I'm working on!
 - 👋 Hi, I’m @AryanSingh2410
 - 👀 I’m interested in ...DSA
-- 🌱 I’m currently learning ...Data Structures and Algorithm
+- 🌱 I’m currently learning ...Java And Data Structures and Algorithm
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...[Gmail](singharyan242000@gmail.com)
 
